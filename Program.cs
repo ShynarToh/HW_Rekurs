@@ -17,6 +17,5 @@ public class task2{
         return " ";
        return m + " " + ShowDigits(m+1, n);
     } 
-   
-    
+      
  } 
